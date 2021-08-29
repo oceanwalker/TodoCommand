@@ -16,16 +16,19 @@ tmd越进行需求调研，越发现这个项目不是一个txt就能记录的�
 任何数据可以通过手工便捷修改，易读，性能不是要首先要考虑的，其他比如可视化等需求可以考虑通过其他软件辅助分析展示，比如Excel，或者其他功能可以通过其他脚本语言辅助实现，本程序保证计划跟得上变化就好了。 
 
 # 说吧，需要我干点啥？
-告诉你训练计划，你要记下来
-告诉你我哪天完成了哪些计划，或者完成了哪些原子动作，你也要记下来
-我不一定是同一个人，我告诉你我是谁的时候，你要能记住
+- 告诉你训练计划，你要记下来
+- 告诉你我哪天完成了哪些计划，或者完成了哪些原子动作，你也要记下来
+- 我不一定是同一个人，我告诉你我是谁的时候，你要能记住
 
-## e.g.用户管理
+## 我换了个DNA你不会就不认识了我了吧？
+```
 tell me, who are you?;)
 --eagle
 hi, eagle! nice to see you again, have a good time today!
+```
 
-## e.g.国际化、空闲状态
+## 没事的时候你要把握住自己呀！不是吧，不是吧，你还会中文？
+```
 --  
 what can i do 4 you?  
 --  
@@ -38,14 +41,16 @@ you have noting 2 do?
 你想干嘛？  
 --lang en  
 ok! I am so boring, want 2 do some bad thing!  
+```
 
-#
+## 我靠，你还真能开始一个训练计划？
 ok, what can i do 4 you?:)
 --start burpee100
 ok, how long?
 --10day
 ok, it'll end at 2021年8月29日.when you want to start?
 --today
+awesome!
 
 
 # 脑容量就这么大该存点啥？别用关系表存好吧，我可不想记对应关系
